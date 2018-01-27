@@ -1,3 +1,5 @@
 # Get-Flexible-and-Fluent
 ## Speaking Flexible
-* Slangs https://www.urbandictionary.com/
+* Slangs<br> https://www.urbandictionary.com/
+## Writing
+* TheysayIsayBlog<br>http://www.theysayiblog.com/
